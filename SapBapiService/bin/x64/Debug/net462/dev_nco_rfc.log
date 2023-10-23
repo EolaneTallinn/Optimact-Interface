@@ -1,0 +1,1243 @@
+
+**** Log file opened by process 11572 at 2023-01-19 14:25:54 (UTC+02:00 FLE Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.21.0 running on 64-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462\SapBapiService.exe
+Working directory: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462
+Operating system: Windows 10 Professional 64-bit 
+Processor: 12x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1116
+Hostname: TN00P3017, IP address: 10.100.123.64, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2023-01-19 14:25:55.011 [Thread 1]
+SAP.Middleware.Connector.RfcInvalidParameterException: Inconsistency in destination name:SapTest does not match QEO
+   at SAP.Middleware.Connector.RfcDestinationManager.GetDestination(String destinationName)
+>> Error entry 2023-01-19 14:25:55.070 [Thread 1]
+SAP.Middleware.Connector.RfcInvalidParameterException: Invalid destination
+   at SAP.Middleware.Connector.RfcSessionManager.EndContext(RfcDestination destination)
+
+**** Log file opened by process 7304 at 2023-01-19 14:32:33 (UTC+02:00 FLE Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.21.0 running on 64-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462\SapBapiService.exe
+Working directory: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462
+Operating system: Windows 10 Professional 64-bit 
+Processor: 12x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1116
+Hostname: TN00P3017, IP address: 10.100.123.64, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2023-01-19 14:32:33.955 [Thread 1]
+SAP.Middleware.Connector.RfcInvalidParameterException: Inconsistency in destination name:SapTest does not match QEO
+   at SAP.Middleware.Connector.RfcDestinationManager.GetDestination(String destinationName)
+>> Error entry 2023-01-19 14:32:33.972 [Thread 1]
+SAP.Middleware.Connector.RfcInvalidParameterException: Invalid destination
+   at SAP.Middleware.Connector.RfcSessionManager.EndContext(RfcDestination destination)
+
+**** Log file opened by process 6180 at 2023-01-19 14:36:08 (UTC+02:00 FLE Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.21.0 running on 64-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462\SapBapiService.exe
+Working directory: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462
+Operating system: Windows 10 Professional 64-bit 
+Processor: 12x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1116
+Hostname: TN00P3017, IP address: 10.100.123.64, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2023-01-19 14:36:08.676 [Thread 1]
+SAP.Middleware.Connector.RfcInvalidParameterException: Inconsistency in destination name:SapTest does not match QEO
+   at SAP.Middleware.Connector.RfcDestinationManager.GetDestination(String destinationName)
+>> Error entry 2023-01-19 14:37:02.513 [Thread 1]
+SAP.Middleware.Connector.RfcInvalidParameterException: Invalid destination
+   at SAP.Middleware.Connector.RfcSessionManager.EndContext(RfcDestination destination)
+
+**** Log file opened by process 8268 at 2023-01-19 14:38:04 (UTC+02:00 FLE Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.21.0 running on 64-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462\SapBapiService.exe
+Working directory: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462
+Operating system: Windows 10 Professional 64-bit 
+Processor: 12x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1116
+Hostname: TN00P3017, IP address: 10.100.123.64, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2023-01-19 14:38:04.501 [Thread 1]
+SAP.Middleware.Connector.RfcInvalidParameterException: Inconsistency in destination name:SapTest does not match QEO
+   at SAP.Middleware.Connector.RfcDestinationManager.GetDestination(String destinationName)
+>> Error entry 2023-01-19 14:38:14.801 [Thread 1]
+SAP.Middleware.Connector.RfcInvalidParameterException: Invalid destination
+   at SAP.Middleware.Connector.RfcSessionManager.EndContext(RfcDestination destination)
+>> Error entry 2023-01-19 14:38:23.554 [Thread 1]
+SAP.Middleware.Connector.RfcInvalidParameterException: Invalid destination
+   at SAP.Middleware.Connector.RfcSessionManager.EndContext(RfcDestination destination)
+
+**** Log file opened by process 21472 at 2023-01-19 14:38:36 (UTC+02:00 FLE Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.21.0 running on 64-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462\SapBapiService.exe
+Working directory: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462
+Operating system: Windows 10 Professional 64-bit 
+Processor: 12x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1116
+Hostname: TN00P3017, IP address: 10.100.123.64, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2023-01-19 14:38:36.135 [Thread 1]
+Failure to create pool for destination SapTest (ORIGINAL) [NAME=SapTest]
+SAP.Middleware.Connector.RfcCommunicationException: Connection parameter ASHOST or MSHOST missing
+   at SAP.Middleware.Connector.CpicConnection.parseConnParameters(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+>> Error entry 2023-01-19 14:38:36.139 [Thread 1]
+[NAME=SapTest]
+SAP.Middleware.Connector.RfcCommunicationException: Connection parameter ASHOST or MSHOST missing
+   at SAP.Middleware.Connector.CpicConnection.parseConnParameters(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues(RfcSystemAttributes attribs)
+>> Error entry 2023-01-19 14:38:36.139 [Thread 1]
+SAP.Middleware.Connector.RfcCommunicationException: Connection parameter ASHOST or MSHOST missing
+   at SAP.Middleware.Connector.CpicConnection.parseConnParameters(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues(RfcSystemAttributes attribs)
+   at SAP.Middleware.Connector.RfcDestination.get_SystemAttributes()
+   at SAP.Middleware.Connector.RfcRepository.GetRepositoryForDestination(RfcDestination destination)
+
+**** Log file opened by process 22444 at 2023-01-19 15:24:34 (UTC+02:00 FLE Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.21.0 running on 64-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462\SapBapiService.exe
+Working directory: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462
+Operating system: Windows 10 Professional 64-bit 
+Processor: 12x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1116
+Hostname: TN00P3017, IP address: 10.100.123.64, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2023-01-19 15:24:35.000 [Thread 1]
+SAP.Middleware.Connector.RfcTypeConversionException: PARAMETER IT_MATNR of FUNCTION ZOPTI_MATERIAL_1 (GETTER): cannot convert TABLE /LIMEB/R_MATNR [STRUCTURE /LIMEB/S_MATNR] into IRfcStructure ---> System.InvalidCastException: Unable to cast object of type 'SAP.Middleware.Connector.RfcTable' to type 'SAP.Middleware.Connector.IRfcStructure'.
+   at SAP.Middleware.Connector.RfcDataContainer`1.GetStructure(Int32 index, Boolean create)
+   --- End of inner exception stack trace ---
+   at SAP.Middleware.Connector.RfcDataContainer`1.GetStructure(Int32 index, Boolean create)
+
+**** Log file opened by process 19300 at 2023-01-19 16:42:04 (UTC+02:00 FLE Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.21.0 running on 64-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462\SapBapiService.exe
+Working directory: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462
+Operating system: Windows 10 Professional 64-bit 
+Processor: 12x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1116
+Hostname: TN00P3017, IP address: 10.100.123.64, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2023-01-19 16:42:04.323 [Thread 1]
+SAP.Middleware.Connector.RfcTypeConversionException: PARAMETER IT_MATNR of FUNCTION ZOPTI_MATERIAL_1 (SETTER): cannot convert String into TABLE /LIMEB/R_MATNR [STRUCTURE /LIMEB/S_MATNR]
+   at SAP.Middleware.Connector.RfcDataContainer`1.SetValue(Int32 index, String value)
+
+**** Log file opened by process 19304 at 2023-01-20 10:23:54 (UTC+02:00 FLE Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.21.0 running on 64-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462\SapBapiService.exe
+Working directory: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462
+Operating system: Windows 10 Professional 64-bit 
+Processor: 12x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1116
+Hostname: TN00P3017, IP address: 169.254.245.220, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2023-01-20 10:23:54.384 [Thread 1]
+SAP.Middleware.Connector.RfcInvalidParameterException: Inconsistency in destination name:Optimact_Profile does not match QEO
+   at SAP.Middleware.Connector.RfcDestinationManager.GetDestination(String destinationName)
+>> Error entry 2023-01-20 10:23:54.400 [Thread 1]
+SAP.Middleware.Connector.RfcInvalidParameterException: Invalid destination
+   at SAP.Middleware.Connector.RfcSessionManager.EndContext(RfcDestination destination)
+
+**** Log file opened by process 22084 at 2023-01-20 10:39:08 (UTC+02:00 FLE Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.21.0 running on 64-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462\SapBapiService.exe
+Working directory: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462
+Operating system: Windows 10 Professional 64-bit 
+Processor: 12x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1116
+Hostname: TN00P3017, IP address: 169.254.245.220, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2023-01-20 10:39:08.905 [Thread 1]
+SAP.Middleware.Connector.RfcInvalidParameterException: Inconsistency in destination name:Optimact_Profile does not match QEO
+   at SAP.Middleware.Connector.RfcDestinationManager.GetDestination(String destinationName)
+>> Error entry 2023-01-20 10:39:08.926 [Thread 1]
+SAP.Middleware.Connector.RfcInvalidParameterException: Invalid destination
+   at SAP.Middleware.Connector.RfcSessionManager.EndContext(RfcDestination destination)
+
+**** Log file opened by process 20012 at 2023-01-20 10:40:08 (UTC+02:00 FLE Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.21.0 running on 64-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462\SapBapiService.exe
+Working directory: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462
+Operating system: Windows 10 Professional 64-bit 
+Processor: 12x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1116
+Hostname: TN00P3017, IP address: 169.254.245.220, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2023-01-20 10:40:08.528 [Thread 1]
+SAP.Middleware.Connector.RfcInvalidParameterException: Inconsistency in destination name:Optimact_Profile does not match QEO
+   at SAP.Middleware.Connector.RfcDestinationManager.GetDestination(String destinationName)
+>> Error entry 2023-01-20 10:40:08.542 [Thread 1]
+SAP.Middleware.Connector.RfcInvalidParameterException: Invalid destination
+   at SAP.Middleware.Connector.RfcSessionManager.EndContext(RfcDestination destination)
+
+**** Log file opened by process 23476 at 2023-01-20 12:28:47 (UTC+02:00 FLE Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.21.0 running on 64-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462\SapBapiService.exe
+Working directory: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462
+Operating system: Windows 10 Professional 64-bit 
+Processor: 12x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1116
+Hostname: TN00P3017, IP address: 169.254.245.220, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2023-01-20 12:28:47.852 [Thread 1]
+SAP.Middleware.Connector.RfcInvalidStateException: Cannot get destination QEO -- no destination configuration registered
+   at SAP.Middleware.Connector.RfcDestinationManager.GetDestination(String destinationName)
+
+**** Log file opened by process 19864 at 2023-01-20 12:29:11 (UTC+02:00 FLE Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.21.0 running on 64-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462\SapBapiService.exe
+Working directory: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462
+Operating system: Windows 10 Professional 64-bit 
+Processor: 12x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1116
+Hostname: TN00P3017, IP address: 169.254.245.220, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2023-01-20 12:29:11.816 [Thread 1]
+SAP.Middleware.Connector.RfcInvalidStateException: Cannot get destination QEO -- no destination configuration registered
+   at SAP.Middleware.Connector.RfcDestinationManager.GetDestination(String destinationName)
+
+**** Log file opened by process 19504 at 2023-01-20 12:31:15 (UTC+02:00 FLE Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.21.0 running on 64-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462\SapBapiService.exe
+Working directory: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462
+Operating system: Windows 10 Professional 64-bit 
+Processor: 12x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1116
+Hostname: TN00P3017, IP address: 169.254.245.220, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2023-01-20 12:31:15.263 [Thread 1]
+Failure to create pool for destination QEO (ORIGINAL) [ASHOST=10.100.64.61 SYSNR=00 CLIENT=600 NAME=QEO]
+SAP.Middleware.Connector.RfcCommunicationException: 00024error during logon
+   at SAP.Middleware.Connector.CpicConnection.ThrowCpicErrorMsg(Int32 length, Int32 dataReceived)
+   at SAP.Middleware.Connector.CpicConnection.CpicReceive(Int32 timeout)
+   at SAP.Middleware.Connector.CpicConnection.Read(Byte* buffer, Int32 offset, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   at SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   at SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+>> Error entry 2023-01-20 12:31:15.269 [Thread 1]
+[ASHOST=10.100.64.61 SYSNR=00 CLIENT=600 NAME=QEO]
+SAP.Middleware.Connector.RfcCommunicationException: 00024error during logon
+   at SAP.Middleware.Connector.CpicConnection.ThrowCpicErrorMsg(Int32 length, Int32 dataReceived)
+   at SAP.Middleware.Connector.CpicConnection.CpicReceive(Int32 timeout)
+   at SAP.Middleware.Connector.CpicConnection.Read(Byte* buffer, Int32 offset, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   at SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   at SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues(RfcSystemAttributes attribs)
+>> Error entry 2023-01-20 12:31:15.269 [Thread 1]
+SAP.Middleware.Connector.RfcCommunicationException: 00024error during logon
+   at SAP.Middleware.Connector.CpicConnection.ThrowCpicErrorMsg(Int32 length, Int32 dataReceived)
+   at SAP.Middleware.Connector.CpicConnection.CpicReceive(Int32 timeout)
+   at SAP.Middleware.Connector.CpicConnection.Read(Byte* buffer, Int32 offset, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   at SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   at SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues(RfcSystemAttributes attribs)
+   at SAP.Middleware.Connector.RfcDestination.get_SystemAttributes()
+   at SAP.Middleware.Connector.RfcRepository.GetRepositoryForDestination(RfcDestination destination)
+
+**** Log file opened by process 15156 at 2023-01-20 12:32:27 (UTC+02:00 FLE Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.21.0 running on 64-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462\SapBapiService.exe
+Working directory: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462
+Operating system: Windows 10 Professional 64-bit 
+Processor: 12x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1116
+Hostname: TN00P3017, IP address: 169.254.245.220, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2023-01-20 12:32:27.720 [Thread 1]
+Failure to create pool for destination QEO (ORIGINAL) [ASHOST=10.100.64.61 SYSNR=00 CLIENT=600 NAME=QEO]
+SAP.Middleware.Connector.RfcCommunicationException: 00024error during logon
+   at SAP.Middleware.Connector.CpicConnection.ThrowCpicErrorMsg(Int32 length, Int32 dataReceived)
+   at SAP.Middleware.Connector.CpicConnection.CpicReceive(Int32 timeout)
+   at SAP.Middleware.Connector.CpicConnection.Read(Byte* buffer, Int32 offset, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   at SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   at SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+>> Error entry 2023-01-20 12:32:27.725 [Thread 1]
+[ASHOST=10.100.64.61 SYSNR=00 CLIENT=600 NAME=QEO]
+SAP.Middleware.Connector.RfcCommunicationException: 00024error during logon
+   at SAP.Middleware.Connector.CpicConnection.ThrowCpicErrorMsg(Int32 length, Int32 dataReceived)
+   at SAP.Middleware.Connector.CpicConnection.CpicReceive(Int32 timeout)
+   at SAP.Middleware.Connector.CpicConnection.Read(Byte* buffer, Int32 offset, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   at SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   at SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues(RfcSystemAttributes attribs)
+>> Error entry 2023-01-20 12:32:27.726 [Thread 1]
+SAP.Middleware.Connector.RfcCommunicationException: 00024error during logon
+   at SAP.Middleware.Connector.CpicConnection.ThrowCpicErrorMsg(Int32 length, Int32 dataReceived)
+   at SAP.Middleware.Connector.CpicConnection.CpicReceive(Int32 timeout)
+   at SAP.Middleware.Connector.CpicConnection.Read(Byte* buffer, Int32 offset, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   at SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   at SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues(RfcSystemAttributes attribs)
+   at SAP.Middleware.Connector.RfcDestination.get_SystemAttributes()
+   at SAP.Middleware.Connector.RfcRepository.GetRepositoryForDestination(RfcDestination destination)
+>> Error entry 2023-01-20 12:32:33.224 [Thread 1]
+Failure to create pool for destination QEO (ORIGINAL) [ASHOST=10.100.64.61 SYSNR=00 CLIENT=600 NAME=QEO]
+SAP.Middleware.Connector.RfcCommunicationException: 00024error during logon
+   at SAP.Middleware.Connector.CpicConnection.ThrowCpicErrorMsg(Int32 length, Int32 dataReceived)
+   at SAP.Middleware.Connector.CpicConnection.CpicReceive(Int32 timeout)
+   at SAP.Middleware.Connector.CpicConnection.Read(Byte* buffer, Int32 offset, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   at SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   at SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+>> Error entry 2023-01-20 12:32:33.224 [Thread 1]
+[ASHOST=10.100.64.61 SYSNR=00 CLIENT=600 NAME=QEO]
+SAP.Middleware.Connector.RfcCommunicationException: 00024error during logon
+   at SAP.Middleware.Connector.CpicConnection.ThrowCpicErrorMsg(Int32 length, Int32 dataReceived)
+   at SAP.Middleware.Connector.CpicConnection.CpicReceive(Int32 timeout)
+   at SAP.Middleware.Connector.CpicConnection.Read(Byte* buffer, Int32 offset, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   at SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   at SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues(RfcSystemAttributes attribs)
+>> Error entry 2023-01-20 12:32:33.225 [Thread 1]
+SAP.Middleware.Connector.RfcCommunicationException: 00024error during logon
+   at SAP.Middleware.Connector.CpicConnection.ThrowCpicErrorMsg(Int32 length, Int32 dataReceived)
+   at SAP.Middleware.Connector.CpicConnection.CpicReceive(Int32 timeout)
+   at SAP.Middleware.Connector.CpicConnection.Read(Byte* buffer, Int32 offset, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   at SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   at SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues(RfcSystemAttributes attribs)
+   at SAP.Middleware.Connector.RfcDestination.get_SystemAttributes()
+   at SAP.Middleware.Connector.RfcRepository.GetRepositoryForDestination(RfcDestination destination)
+>> Error entry 2023-01-20 12:32:35.984 [Thread 1]
+Failure to create pool for destination QEO (ORIGINAL) [ASHOST=10.100.64.61 SYSNR=00 CLIENT=600 NAME=QEO]
+SAP.Middleware.Connector.RfcCommunicationException: 00024error during logon
+   at SAP.Middleware.Connector.CpicConnection.ThrowCpicErrorMsg(Int32 length, Int32 dataReceived)
+   at SAP.Middleware.Connector.CpicConnection.CpicReceive(Int32 timeout)
+   at SAP.Middleware.Connector.CpicConnection.Read(Byte* buffer, Int32 offset, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   at SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   at SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+>> Error entry 2023-01-20 12:32:35.984 [Thread 1]
+[ASHOST=10.100.64.61 SYSNR=00 CLIENT=600 NAME=QEO]
+SAP.Middleware.Connector.RfcCommunicationException: 00024error during logon
+   at SAP.Middleware.Connector.CpicConnection.ThrowCpicErrorMsg(Int32 length, Int32 dataReceived)
+   at SAP.Middleware.Connector.CpicConnection.CpicReceive(Int32 timeout)
+   at SAP.Middleware.Connector.CpicConnection.Read(Byte* buffer, Int32 offset, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   at SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   at SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues(RfcSystemAttributes attribs)
+>> Error entry 2023-01-20 12:32:41.267 [Thread 1]
+Failure to create pool for destination QEO (ORIGINAL) [ASHOST=10.100.64.61 SYSNR=00 CLIENT=600 NAME=QEO]
+SAP.Middleware.Connector.RfcCommunicationException: 00024error during logon
+   at SAP.Middleware.Connector.CpicConnection.ThrowCpicErrorMsg(Int32 length, Int32 dataReceived)
+   at SAP.Middleware.Connector.CpicConnection.CpicReceive(Int32 timeout)
+   at SAP.Middleware.Connector.CpicConnection.Read(Byte* buffer, Int32 offset, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   at SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   at SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+>> Error entry 2023-01-20 12:32:41.268 [Thread 1]
+[ASHOST=10.100.64.61 SYSNR=00 CLIENT=600 NAME=QEO]
+SAP.Middleware.Connector.RfcCommunicationException: 00024error during logon
+   at SAP.Middleware.Connector.CpicConnection.ThrowCpicErrorMsg(Int32 length, Int32 dataReceived)
+   at SAP.Middleware.Connector.CpicConnection.CpicReceive(Int32 timeout)
+   at SAP.Middleware.Connector.CpicConnection.Read(Byte* buffer, Int32 offset, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   at SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   at SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues(RfcSystemAttributes attribs)
+>> Error entry 2023-01-20 12:32:41.268 [Thread 1]
+SAP.Middleware.Connector.RfcCommunicationException: 00024error during logon
+   at SAP.Middleware.Connector.CpicConnection.ThrowCpicErrorMsg(Int32 length, Int32 dataReceived)
+   at SAP.Middleware.Connector.CpicConnection.CpicReceive(Int32 timeout)
+   at SAP.Middleware.Connector.CpicConnection.Read(Byte* buffer, Int32 offset, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   at SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   at SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues(RfcSystemAttributes attribs)
+   at SAP.Middleware.Connector.RfcDestination.get_SystemAttributes()
+   at SAP.Middleware.Connector.RfcRepository.GetRepositoryForDestination(RfcDestination destination)
+>> Error entry 2023-01-20 12:35:19.698 [Thread 1]
+Failure to create pool for destination QEO (ORIGINAL) [ASHOST=10.100.64.61 SYSNR=00 CLIENT=600 NAME=QEO]
+SAP.Middleware.Connector.RfcCommunicationException: 00024error during logon
+   at SAP.Middleware.Connector.CpicConnection.ThrowCpicErrorMsg(Int32 length, Int32 dataReceived)
+   at SAP.Middleware.Connector.CpicConnection.CpicReceive(Int32 timeout)
+   at SAP.Middleware.Connector.CpicConnection.Read(Byte* buffer, Int32 offset, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   at SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   at SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+>> Error entry 2023-01-20 12:35:19.699 [Thread 1]
+[ASHOST=10.100.64.61 SYSNR=00 CLIENT=600 NAME=QEO]
+SAP.Middleware.Connector.RfcCommunicationException: 00024error during logon
+   at SAP.Middleware.Connector.CpicConnection.ThrowCpicErrorMsg(Int32 length, Int32 dataReceived)
+   at SAP.Middleware.Connector.CpicConnection.CpicReceive(Int32 timeout)
+   at SAP.Middleware.Connector.CpicConnection.Read(Byte* buffer, Int32 offset, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   at SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   at SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues(RfcSystemAttributes attribs)
+>> Error entry 2023-01-20 12:35:19.699 [Thread 1]
+SAP.Middleware.Connector.RfcCommunicationException: 00024error during logon
+   at SAP.Middleware.Connector.CpicConnection.ThrowCpicErrorMsg(Int32 length, Int32 dataReceived)
+   at SAP.Middleware.Connector.CpicConnection.CpicReceive(Int32 timeout)
+   at SAP.Middleware.Connector.CpicConnection.Read(Byte* buffer, Int32 offset, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   at SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   at SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues(RfcSystemAttributes attribs)
+   at SAP.Middleware.Connector.RfcDestination.get_SystemAttributes()
+   at SAP.Middleware.Connector.RfcRepository.GetRepositoryForDestination(RfcDestination destination)
+
+**** Log file opened by process 16664 at 2023-01-24 15:55:35 (UTC+02:00 FLE Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.21.0 running on 64-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462\SapBapiService.exe
+Working directory: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462
+Operating system: Windows 10 Professional 64-bit 
+Processor: 12x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1116
+Hostname: TN00P3017, IP address: 10.100.123.70, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2023-01-24 15:55:35.352 [Thread 1]
+Failure to create pool for destination QEO (ORIGINAL) [ASHOST=10.100.64.61 SYSNR=00 CLIENT=600 NAME=QEO]
+SAP.Middleware.Connector.RfcCommunicationException: 00024error during logon
+   at SAP.Middleware.Connector.CpicConnection.ThrowCpicErrorMsg(Int32 length, Int32 dataReceived)
+   at SAP.Middleware.Connector.CpicConnection.CpicReceive(Int32 timeout)
+   at SAP.Middleware.Connector.CpicConnection.Read(Byte* buffer, Int32 offset, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   at SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   at SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+>> Error entry 2023-01-24 15:55:35.369 [Thread 1]
+[ASHOST=10.100.64.61 SYSNR=00 CLIENT=600 NAME=QEO]
+SAP.Middleware.Connector.RfcCommunicationException: 00024error during logon
+   at SAP.Middleware.Connector.CpicConnection.ThrowCpicErrorMsg(Int32 length, Int32 dataReceived)
+   at SAP.Middleware.Connector.CpicConnection.CpicReceive(Int32 timeout)
+   at SAP.Middleware.Connector.CpicConnection.Read(Byte* buffer, Int32 offset, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   at SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   at SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues(RfcSystemAttributes attribs)
+>> Error entry 2023-01-24 15:55:35.369 [Thread 1]
+SAP.Middleware.Connector.RfcCommunicationException: 00024error during logon
+   at SAP.Middleware.Connector.CpicConnection.ThrowCpicErrorMsg(Int32 length, Int32 dataReceived)
+   at SAP.Middleware.Connector.CpicConnection.CpicReceive(Int32 timeout)
+   at SAP.Middleware.Connector.CpicConnection.Read(Byte* buffer, Int32 offset, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   at SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   at SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues(RfcSystemAttributes attribs)
+   at SAP.Middleware.Connector.RfcDestination.get_SystemAttributes()
+   at SAP.Middleware.Connector.RfcRepository.GetRepositoryForDestination(RfcDestination destination)
+
+**** Log file opened by process 18252 at 2023-01-25 12:11:08 (UTC+02:00 FLE Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.21.0 running on 64-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462\SapBapiService.exe
+Working directory: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462
+Operating system: Windows 10 Professional 64-bit 
+Processor: 12x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1116
+Hostname: TN00P3017, IP address: 169.254.245.220, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2023-01-25 12:11:08.618 [Thread 1]
+Failure to create pool for destination QEO (ORIGINAL) [ASHOST=10.100.64.61 SYSNR=00 CLIENT=600 NAME=QEO]
+SAP.Middleware.Connector.RfcCommunicationException: 00024error during logon
+   at SAP.Middleware.Connector.CpicConnection.ThrowCpicErrorMsg(Int32 length, Int32 dataReceived)
+   at SAP.Middleware.Connector.CpicConnection.CpicReceive(Int32 timeout)
+   at SAP.Middleware.Connector.CpicConnection.Read(Byte* buffer, Int32 offset, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   at SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   at SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+>> Error entry 2023-01-25 12:11:08.629 [Thread 1]
+[ASHOST=10.100.64.61 SYSNR=00 CLIENT=600 NAME=QEO]
+SAP.Middleware.Connector.RfcCommunicationException: 00024error during logon
+   at SAP.Middleware.Connector.CpicConnection.ThrowCpicErrorMsg(Int32 length, Int32 dataReceived)
+   at SAP.Middleware.Connector.CpicConnection.CpicReceive(Int32 timeout)
+   at SAP.Middleware.Connector.CpicConnection.Read(Byte* buffer, Int32 offset, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   at SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   at SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues(RfcSystemAttributes attribs)
+>> Error entry 2023-01-25 12:11:08.629 [Thread 1]
+SAP.Middleware.Connector.RfcCommunicationException: 00024error during logon
+   at SAP.Middleware.Connector.CpicConnection.ThrowCpicErrorMsg(Int32 length, Int32 dataReceived)
+   at SAP.Middleware.Connector.CpicConnection.CpicReceive(Int32 timeout)
+   at SAP.Middleware.Connector.CpicConnection.Read(Byte* buffer, Int32 offset, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   at SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   at SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues(RfcSystemAttributes attribs)
+   at SAP.Middleware.Connector.RfcDestination.get_SystemAttributes()
+   at SAP.Middleware.Connector.RfcRepository.GetRepositoryForDestination(RfcDestination destination)
+
+**** Log file opened by process 3608 at 2023-01-25 12:11:39 (UTC+02:00 FLE Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.21.0 running on 64-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462\SapBapiService.exe
+Working directory: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462
+Operating system: Windows 10 Professional 64-bit 
+Processor: 12x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1116
+Hostname: TN00P3017, IP address: 169.254.245.220, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2023-01-25 12:11:39.284 [Thread 1]
+Failure to create pool for destination QEO (ORIGINAL) [ASHOST=10.100.64.61 SYSNR=00 CLIENT=600 NAME=QEO]
+SAP.Middleware.Connector.RfcCommunicationException: 00024error during logon
+   at SAP.Middleware.Connector.CpicConnection.ThrowCpicErrorMsg(Int32 length, Int32 dataReceived)
+   at SAP.Middleware.Connector.CpicConnection.CpicReceive(Int32 timeout)
+   at SAP.Middleware.Connector.CpicConnection.Read(Byte* buffer, Int32 offset, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   at SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   at SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+>> Error entry 2023-01-25 12:11:39.292 [Thread 1]
+[ASHOST=10.100.64.61 SYSNR=00 CLIENT=600 NAME=QEO]
+SAP.Middleware.Connector.RfcCommunicationException: 00024error during logon
+   at SAP.Middleware.Connector.CpicConnection.ThrowCpicErrorMsg(Int32 length, Int32 dataReceived)
+   at SAP.Middleware.Connector.CpicConnection.CpicReceive(Int32 timeout)
+   at SAP.Middleware.Connector.CpicConnection.Read(Byte* buffer, Int32 offset, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   at SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   at SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues(RfcSystemAttributes attribs)
+>> Error entry 2023-01-25 12:11:39.292 [Thread 1]
+SAP.Middleware.Connector.RfcCommunicationException: 00024error during logon
+   at SAP.Middleware.Connector.CpicConnection.ThrowCpicErrorMsg(Int32 length, Int32 dataReceived)
+   at SAP.Middleware.Connector.CpicConnection.CpicReceive(Int32 timeout)
+   at SAP.Middleware.Connector.CpicConnection.Read(Byte* buffer, Int32 offset, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   at SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   at SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues(RfcSystemAttributes attribs)
+   at SAP.Middleware.Connector.RfcDestination.get_SystemAttributes()
+   at SAP.Middleware.Connector.RfcRepository.GetRepositoryForDestination(RfcDestination destination)
+
+**** Log file opened by process 14584 at 2023-01-25 12:49:25 (UTC+02:00 FLE Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.21.0 running on 64-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462\SapBapiService.exe
+Working directory: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462
+Operating system: Windows 10 Professional 64-bit 
+Processor: 12x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1116
+Hostname: TN00P3017, IP address: 10.100.123.76, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2023-01-25 12:49:25.727 [Thread 1]
+[ASHOST=10.100.64.61 SYSNR=00 CLIENT=600 USER=TN_OPTIMACT PASSWD=******** NAME=QEO]
+SAP.Middleware.Connector.RfcAbapRuntimeException: The function module "ZOPTI_STOCK_7" cannot be used for 'remote' calls.
+   at SAP.Middleware.Connector.RfcConnection.ThrowRfcErrorMsg()
+   at SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   at SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   at SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   at SAP.Middleware.Connector.RfcFunction.RfcDeserialize(RfcConnection conn, IRfcIOStream stream)
+   at SAP.Middleware.Connector.RfcFunction.RfcCallReceive(RfcConnection conn, IRfcIOStream stream, RFCID rid)
+   at SAP.Middleware.Connector.RfcFunction.Invoke(RfcDestination destination)
+
+**** Log file opened by process 31908 at 2023-01-30 13:19:05 (UTC+02:00 FLE Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.21.0 running on 64-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462\SapBapiService.exe
+Working directory: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462
+Operating system: Windows 10 Professional 64-bit 
+Processor: 12x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1116
+Hostname: TN00P3017, IP address: 192.168.200.157, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2023-01-30 13:19:05.552 [Thread 1]
+Failure to create pool for destination QEO (ORIGINAL) [ASHOST=10.100.64.61 SYSNR=00 CLIENT=600 USER=TN_OPTIMACT PASSWD=******** NAME=QEO]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    CPIC (TCP/IP) on local host TN00P3017 with Unicode
+ERROR       partner '10.100.64.61:3300' not reached
+TIME        Mon Jan 30 13:19:05 2023
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3289
+DETAIL      NiPConnect2: 10.100.64.61:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+>> Error entry 2023-01-30 13:19:05.572 [Thread 1]
+[ASHOST=10.100.64.61 SYSNR=00 CLIENT=600 USER=TN_OPTIMACT PASSWD=******** NAME=QEO]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    CPIC (TCP/IP) on local host TN00P3017 with Unicode
+ERROR       partner '10.100.64.61:3300' not reached
+TIME        Mon Jan 30 13:19:05 2023
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3289
+DETAIL      NiPConnect2: 10.100.64.61:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues(RfcSystemAttributes attribs)
+>> Error entry 2023-01-30 13:19:05.573 [Thread 1]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    CPIC (TCP/IP) on local host TN00P3017 with Unicode
+ERROR       partner '10.100.64.61:3300' not reached
+TIME        Mon Jan 30 13:19:05 2023
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3289
+DETAIL      NiPConnect2: 10.100.64.61:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues(RfcSystemAttributes attribs)
+   at SAP.Middleware.Connector.RfcDestination.get_SystemAttributes()
+   at SAP.Middleware.Connector.RfcRepository.GetRepositoryForDestination(RfcDestination destination)
+
+**** Log file opened by process 32368 at 2023-01-30 13:20:39 (UTC+02:00 FLE Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.21.0 running on 64-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462\SapBapiService.exe
+Working directory: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462
+Operating system: Windows 10 Professional 64-bit 
+Processor: 12x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1116
+Hostname: TN00P3017, IP address: 192.168.200.157, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2023-01-30 13:20:39.960 [Thread 1]
+Failure to create pool for destination QEO (ORIGINAL) [ASHOST=10.100.64.61 SYSNR=00 CLIENT=600 USER=TN_OPTIMACT PASSWD=******** NAME=QEO]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    CPIC (TCP/IP) on local host TN00P3017 with Unicode
+ERROR       partner '10.100.64.61:3300' not reached
+TIME        Mon Jan 30 13:20:39 2023
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3289
+DETAIL      NiPConnect2: 10.100.64.61:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+>> Error entry 2023-01-30 13:20:39.979 [Thread 1]
+[ASHOST=10.100.64.61 SYSNR=00 CLIENT=600 USER=TN_OPTIMACT PASSWD=******** NAME=QEO]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    CPIC (TCP/IP) on local host TN00P3017 with Unicode
+ERROR       partner '10.100.64.61:3300' not reached
+TIME        Mon Jan 30 13:20:39 2023
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3289
+DETAIL      NiPConnect2: 10.100.64.61:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues(RfcSystemAttributes attribs)
+>> Error entry 2023-01-30 13:20:39.980 [Thread 1]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    CPIC (TCP/IP) on local host TN00P3017 with Unicode
+ERROR       partner '10.100.64.61:3300' not reached
+TIME        Mon Jan 30 13:20:39 2023
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3289
+DETAIL      NiPConnect2: 10.100.64.61:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues(RfcSystemAttributes attribs)
+   at SAP.Middleware.Connector.RfcDestination.get_SystemAttributes()
+   at SAP.Middleware.Connector.RfcRepository.GetRepositoryForDestination(RfcDestination destination)
+
+**** Log file opened by process 9536 at 2023-01-30 13:21:22 (UTC+02:00 FLE Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.21.0 running on 64-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462\SapBapiService.exe
+Working directory: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462
+Operating system: Windows 10 Professional 64-bit 
+Processor: 12x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1116
+Hostname: TN00P3017, IP address: 192.168.200.157, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2023-01-30 13:21:22.927 [Thread 1]
+Failure to create pool for destination QEO (ORIGINAL) [ASHOST=10.100.64.61 SYSNR=00 CLIENT=600 USER=TN_OPTIMACT PASSWD=******** NAME=QEO]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    CPIC (TCP/IP) on local host TN00P3017 with Unicode
+ERROR       partner '10.100.64.61:3300' not reached
+TIME        Mon Jan 30 13:21:22 2023
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3289
+DETAIL      NiPConnect2: 10.100.64.61:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+>> Error entry 2023-01-30 13:21:22.946 [Thread 1]
+[ASHOST=10.100.64.61 SYSNR=00 CLIENT=600 USER=TN_OPTIMACT PASSWD=******** NAME=QEO]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    CPIC (TCP/IP) on local host TN00P3017 with Unicode
+ERROR       partner '10.100.64.61:3300' not reached
+TIME        Mon Jan 30 13:21:22 2023
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3289
+DETAIL      NiPConnect2: 10.100.64.61:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues(RfcSystemAttributes attribs)
+>> Error entry 2023-01-30 13:21:22.947 [Thread 1]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    CPIC (TCP/IP) on local host TN00P3017 with Unicode
+ERROR       partner '10.100.64.61:3300' not reached
+TIME        Mon Jan 30 13:21:22 2023
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3289
+DETAIL      NiPConnect2: 10.100.64.61:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues(RfcSystemAttributes attribs)
+   at SAP.Middleware.Connector.RfcDestination.get_SystemAttributes()
+   at SAP.Middleware.Connector.RfcRepository.GetRepositoryForDestination(RfcDestination destination)
+
+**** Log file opened by process 9964 at 2023-01-30 13:23:10 (UTC+02:00 FLE Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.21.0 running on 64-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462\SapBapiService.exe
+Working directory: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462
+Operating system: Windows 10 Professional 64-bit 
+Processor: 12x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1116
+Hostname: TN00P3017, IP address: 10.100.123.79, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2023-01-30 13:23:10.950 [Thread 1]
+SAP.Middleware.Connector.RfcInvalidParameterException: Inconsistency in destination name:QEO does not match PEO
+   at SAP.Middleware.Connector.RfcDestinationManager.GetDestination(String destinationName)
+
+**** Log file opened by process 31868 at 2023-01-30 13:29:26 (UTC+02:00 FLE Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.21.0 running on 64-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462\SapBapiService.exe
+Working directory: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462
+Operating system: Windows 10 Professional 64-bit 
+Processor: 12x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1116
+Hostname: TN00P3017, IP address: 10.100.123.79, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2023-01-30 13:29:26.337 [Thread 1]
+System.Threading.ThreadAbortException: Thread was being aborted.
+   at System.Text.StringBuilder.ToString()
+   at SAP.Middleware.Connector.RfcScalarMetadataBcd.GetString(Object& value)
+   at SAP.Middleware.Connector.RfcDataContainer`1.GetString(Int32 index)
+
+**** Log file opened by process 30732 at 2023-03-17 16:39:13 (UTC+02:00 FLE Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.21.0 running on 64-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462\SapBapiService.exe
+Working directory: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462
+Operating system: Windows 10 Professional 64-bit 
+Processor: 12x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1116
+Hostname: TN00P3017, IP address: 192.168.200.67, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2023-03-17 16:39:13.117 [Thread 1]
+Failure to create pool for destination PEO (ORIGINAL) [ASHOST=10.48.72.10 SYSNR=00 CLIENT=600 USER=TN_OPTIMACT PASSWD=******** NAME=PEO]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    CPIC (TCP/IP) on local host TN00P3017 with Unicode
+ERROR       partner '10.48.72.10:3300' not reached
+TIME        Fri Mar 17 16:39:13 2023
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3289
+DETAIL      NiPConnect2: 10.48.72.10:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+>> Error entry 2023-03-17 16:39:13.127 [Thread 1]
+[ASHOST=10.48.72.10 SYSNR=00 CLIENT=600 USER=TN_OPTIMACT PASSWD=******** NAME=PEO]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    CPIC (TCP/IP) on local host TN00P3017 with Unicode
+ERROR       partner '10.48.72.10:3300' not reached
+TIME        Fri Mar 17 16:39:13 2023
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3289
+DETAIL      NiPConnect2: 10.48.72.10:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues(RfcSystemAttributes attribs)
+>> Error entry 2023-03-17 16:39:13.127 [Thread 1]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    CPIC (TCP/IP) on local host TN00P3017 with Unicode
+ERROR       partner '10.48.72.10:3300' not reached
+TIME        Fri Mar 17 16:39:13 2023
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3289
+DETAIL      NiPConnect2: 10.48.72.10:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     2
+
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues(RfcSystemAttributes attribs)
+   at SAP.Middleware.Connector.RfcDestination.get_SystemAttributes()
+   at SAP.Middleware.Connector.RfcRepository.GetRepositoryForDestination(RfcDestination destination)
+
+**** Log file opened by process 10036 at 2023-04-06 09:07:09 (UTC+03:00 FLE Daylight Time)
+
+SAP .NET Connector 3.0 with file version 3.0.21.0 running on 64-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462\SapBapiService.exe
+Working directory: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462
+Operating system: Windows 10 Professional 64-bit 
+Processor: 12x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1116
+Hostname: TN00P3017, IP address: 192.168.205.74, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2023-04-06 09:07:09.490 [Thread 1]
+[ASHOST=10.48.72.10 SYSNR=00 CLIENT=600 USER=TN_OPTIMACT PASSWD=******** NAME=PEO]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       connection to partner '10.48.72.10:3300' broken
+TIME        Thu Apr 06 09:07:09 2023
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5088
+DETAIL      NiIRead: P=10.48.72.10:3300; L=10.100.121.216:59787
+SYSTEM CALL recv
+ERRNO       10054
+ERRNO TEXT  WSAECONNRESET: Connection reset by peer
+COUNTER     5
+
+   at SAP.Middleware.Connector.CpicConnection.CpicReceive(Int32 timeout)
+   at SAP.Middleware.Connector.CpicConnection.Read(Byte* buffer, Int32 offset, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   at SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   at SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   at SAP.Middleware.Connector.RfcFunction.RfcDeserialize(RfcConnection conn, IRfcIOStream stream)
+   at SAP.Middleware.Connector.RfcFunction.RfcCallReceive(RfcConnection conn, IRfcIOStream stream, RFCID rid)
+   at SAP.Middleware.Connector.RfcFunction.Invoke(RfcDestination destination)
+
+**** Log file opened by process 15900 at 2023-05-16 13:29:21 (UTC+03:00 FLE Daylight Time)
+
+SAP .NET Connector 3.0 with file version 3.0.21.0 running on 64-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462\SapBapiService.exe
+Working directory: C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\x64\Debug\net462
+Operating system: Windows 10 Professional 64-bit 
+Processor: 12x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1116
+Hostname: TN00P3017, IP address: 10.100.123.65, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2023-05-16 13:29:21.312 [Thread 1]
+[ASHOST=10.48.72.10 SYSNR=00 CLIENT=600 USER=TN_OPTIMACT PASSWD=******** NAME=PEO]
+SAP.Middleware.Connector.RfcAbapRuntimeException: Time limit exceeded.
+   at SAP.Middleware.Connector.RfcConnection.ThrowRfcErrorMsg()
+   at SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   at SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   at SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   at SAP.Middleware.Connector.RfcFunction.RfcDeserialize(RfcConnection conn, IRfcIOStream stream)
+   at SAP.Middleware.Connector.RfcFunction.RfcCallReceive(RfcConnection conn, IRfcIOStream stream, RFCID rid)
+   at SAP.Middleware.Connector.RfcFunction.Invoke(RfcDestination destination)
+
+**** Log file opened by process 24044 at 2023-07-10 10:02:19 (UTC+03:00 FLE Daylight Time)
+
+SAP .NET Connector 3.0 with file version 3.0.21.0 running on 64-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\tn_merqe\Documents\SAP BAPI\V2\SapBapiService\SapBapiService\bin\x64\Debug\net462\SapBapiService.exe
+Working directory: C:\Users\tn_merqe\Documents\SAP BAPI\V2\SapBapiService\SapBapiService\bin\x64\Debug\net462
+Operating system: Windows 10 Enterprise 64-bit 
+Processor: 8x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1116
+Hostname: TN00P2854, IP address: 10.100.122.36, IP_v6 address: 
+
+Default trace level: None
+
+>> Error entry 2023-07-10 10:02:19.938 [Thread 1]
+[ASHOST=10.48.72.10 SYSNR=00 CLIENT=600 USER=TN_OPTIMACT PASSWD=******** NAME=PEO]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       connection to partner '10.48.72.10:3300' broken
+TIME        Mon Jul 10 10:02:19 2023
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -6
+MODULE      nixxi.cpp
+LINE        5088
+DETAIL      NiIRead: P=10.48.72.10:3300; L=10.100.122.36:52132
+SYSTEM CALL recv
+ERRNO       10054
+ERRNO TEXT  WSAECONNRESET: Connection reset by peer
+COUNTER     5
+
+   at SAP.Middleware.Connector.CpicConnection.CpicReceive(Int32 timeout)
+   at SAP.Middleware.Connector.CpicConnection.Read(Byte* buffer, Int32 offset, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   at SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   at SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   at SAP.Middleware.Connector.RfcFunction.RfcDeserialize(RfcConnection conn, IRfcIOStream stream)
+   at SAP.Middleware.Connector.RfcFunction.RfcCallReceive(RfcConnection conn, IRfcIOStream stream, RFCID rid)
+   at SAP.Middleware.Connector.RfcFunction.Invoke(RfcDestination destination)
+>> Error entry 2023-07-10 10:02:41.069 [Thread 1]
+Failure to create pool for destination PEO (ORIGINAL) [ASHOST=10.48.72.10 SYSNR=00 CLIENT=600 USER=TN_OPTIMACT PASSWD=******** NAME=PEO]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       partner '10.48.72.10:3300' not reached
+TIME        Mon Jul 10 10:02:41 2023
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3289
+DETAIL      NiPConnect2: 10.48.72.10:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     7
+
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+>> Error entry 2023-07-10 10:02:41.072 [Thread 1]
+[ASHOST=10.48.72.10 SYSNR=00 CLIENT=600 USER=TN_OPTIMACT PASSWD=******** NAME=PEO]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       partner '10.48.72.10:3300' not reached
+TIME        Mon Jul 10 10:02:41 2023
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3289
+DETAIL      NiPConnect2: 10.48.72.10:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     7
+
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues(RfcSystemAttributes attribs)
+>> Error entry 2023-07-10 10:02:41.074 [Thread 1]
+SAP.Middleware.Connector.RfcCommunicationException: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       partner '10.48.72.10:3300' not reached
+TIME        Mon Jul 10 10:02:41 2023
+RELEASE     721
+COMPONENT   NI (network interface)
+VERSION     40
+RC          -10
+MODULE      nixxi.cpp
+LINE        3289
+DETAIL      NiPConnect2: 10.48.72.10:3300
+SYSTEM CALL connect
+ERRNO       10060
+ERRNO TEXT  WSAETIMEDOUT: Connection timed out
+COUNTER     7
+
+   at SAP.Middleware.Connector.CpicConnection.ConnectAsClient(Dictionary`2 options, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnection.ConnectAsClient(RfcDestination destination, Boolean forRepository)
+   at SAP.Middleware.Connector.RfcConnectionPool..ctor(RfcDestination destination, Boolean forRepositoryCalls)
+   at SAP.Middleware.Connector.RfcConnectionPool.GetPool(RfcDestination destination, Boolean forRepository, Boolean create)
+   at SAP.Middleware.Connector.RfcDestination.GetClient(Boolean forRepository)
+   at SAP.Middleware.Connector.RfcDestination.SetAttributeValues(RfcSystemAttributes attribs)
+   at SAP.Middleware.Connector.RfcDestination.get_SystemAttributes()
+   at SAP.Middleware.Connector.RfcRepository.GetRepositoryForDestination(RfcDestination destination)

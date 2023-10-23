@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">	
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net462</TargetFramework>
+    <Platforms>x64</Platforms>
+  </PropertyGroup>
+
+	<ItemGroup>
+		<Reference Include="sapnco">
+			<HintPath>T:\IT\1_IT teenused\220_GIT\ScriptVault\Modules\SAP_DotNetConnector3_Net20_x64\sapnco.dll</HintPath>
+		</Reference>
+		<Reference Include="sapnco_utils">
+			<HintPath>T:\IT\1_IT teenused\220_GIT\ScriptVault\Modules\SAP_DotNetConnector3_Net20_x64\sapnco_utils.dll</HintPath>
+		</Reference>
+		<Reference Include="System.Security" />
+		<Reference Include="System.Windows.Forms" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Folder Include="obj\" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\ReadCredentialNET462\ReadCredentialNET462.csproj" />
+	</ItemGroup>
+</Project>

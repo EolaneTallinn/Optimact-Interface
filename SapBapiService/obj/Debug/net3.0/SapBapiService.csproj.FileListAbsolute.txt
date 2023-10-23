@@ -1,0 +1,6 @@
+C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\obj\Debug\net3.0\SapBapiService.csproj.AssemblyReference.cache
+C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\obj\Debug\net3.0\SapBapiService.csproj.SuggestedBindingRedirects.cache
+C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\obj\Debug\net3.0\SapBapiService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\obj\Debug\net3.0\SapBapiService.AssemblyInfoInputs.cache
+C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\obj\Debug\net3.0\SapBapiService.AssemblyInfo.cs
+C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\obj\Debug\net3.0\SapBapiService.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\Debug\net6.0\SapBapiService.exe
+C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\Debug\net6.0\SapBapiService.deps.json
+C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\Debug\net6.0\SapBapiService.runtimeconfig.json
+C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\Debug\net6.0\SapBapiService.dll
+C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\bin\Debug\net6.0\SapBapiService.pdb
+C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\obj\Debug\net6.0\SapBapiService.csproj.AssemblyReference.cache
+C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\obj\Debug\net6.0\SapBapiService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\obj\Debug\net6.0\SapBapiService.AssemblyInfoInputs.cache
+C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\obj\Debug\net6.0\SapBapiService.AssemblyInfo.cs
+C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\obj\Debug\net6.0\SapBapiService.csproj.CoreCompileInputs.cache
+C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\obj\Debug\net6.0\SapBapiService.dll
+C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\obj\Debug\net6.0\refint\SapBapiService.dll
+C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\obj\Debug\net6.0\SapBapiService.pdb
+C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\obj\Debug\net6.0\SapBapiService.genruntimeconfig.cache
+C:\Users\tn_toval\source\repos\SapBapiService\SapBapiService\obj\Debug\net6.0\ref\SapBapiService.dll
