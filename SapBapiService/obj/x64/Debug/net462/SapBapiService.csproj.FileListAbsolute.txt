@@ -77,3 +77,19 @@ T:\IT\1_IT teenused\220_GIT\ScriptVault\Provision-Optimact\New Interface\SapBapi
 T:\IT\1_IT teenused\220_GIT\ScriptVault\Provision-Optimact\New Interface\SapBapiService\obj\x64\Debug\net462\SapBapiService.csproj.CopyComplete
 T:\IT\1_IT teenused\220_GIT\ScriptVault\Provision-Optimact\New Interface\SapBapiService\obj\x64\Debug\net462\SapBapiService.exe
 T:\IT\1_IT teenused\220_GIT\ScriptVault\Provision-Optimact\New Interface\SapBapiService\obj\x64\Debug\net462\SapBapiService.pdb
+C:\Users\tn_merqe\Documents\GitHub\Optimact-Interface\SapBapiService\bin\x64\Debug\net462\SapBapiService.exe.config
+C:\Users\tn_merqe\Documents\GitHub\Optimact-Interface\SapBapiService\bin\x64\Debug\net462\SapBapiService.exe
+C:\Users\tn_merqe\Documents\GitHub\Optimact-Interface\SapBapiService\bin\x64\Debug\net462\SapBapiService.pdb
+C:\Users\tn_merqe\Documents\GitHub\Optimact-Interface\SapBapiService\bin\x64\Debug\net462\ReadCredentialNET462.exe
+C:\Users\tn_merqe\Documents\GitHub\Optimact-Interface\SapBapiService\bin\x64\Debug\net462\sapnco.dll
+C:\Users\tn_merqe\Documents\GitHub\Optimact-Interface\SapBapiService\bin\x64\Debug\net462\sapnco_utils.dll
+C:\Users\tn_merqe\Documents\GitHub\Optimact-Interface\SapBapiService\bin\x64\Debug\net462\ReadCredentialNET462.pdb
+C:\Users\tn_merqe\Documents\GitHub\Optimact-Interface\SapBapiService\bin\x64\Debug\net462\ReadCredentialNET462.exe.config
+C:\Users\tn_merqe\Documents\GitHub\Optimact-Interface\SapBapiService\obj\x64\Debug\net462\SapBapiService.csproj.AssemblyReference.cache
+C:\Users\tn_merqe\Documents\GitHub\Optimact-Interface\SapBapiService\obj\x64\Debug\net462\SapBapiService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tn_merqe\Documents\GitHub\Optimact-Interface\SapBapiService\obj\x64\Debug\net462\SapBapiService.AssemblyInfoInputs.cache
+C:\Users\tn_merqe\Documents\GitHub\Optimact-Interface\SapBapiService\obj\x64\Debug\net462\SapBapiService.AssemblyInfo.cs
+C:\Users\tn_merqe\Documents\GitHub\Optimact-Interface\SapBapiService\obj\x64\Debug\net462\SapBapiService.csproj.CoreCompileInputs.cache
+C:\Users\tn_merqe\Documents\GitHub\Optimact-Interface\SapBapiService\obj\x64\Debug\net462\SapBapiService.csproj.CopyComplete
+C:\Users\tn_merqe\Documents\GitHub\Optimact-Interface\SapBapiService\obj\x64\Debug\net462\SapBapiService.exe
+C:\Users\tn_merqe\Documents\GitHub\Optimact-Interface\SapBapiService\obj\x64\Debug\net462\SapBapiService.pdb

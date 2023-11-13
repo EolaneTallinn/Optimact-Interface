@@ -20,7 +20,7 @@ namespace SapBapiSerice_Main
 
             // This table defines the status of each file: 0 - Not generated, 1 - Generated in live environment, 2 - Generated in test environmnent
             // Becareful of the indexes: In the table it goes from 0 to 6, while the file are from 1 to 7
-            int[] FileGenerationStatus = { 1, 1, 2, 2, 2, 0, 1 };
+            int[] FileGenerationStatus = { 1, 2, 2, 2, 2, 0, 1 };
 
             // Other variable initialization
             int FileNumber = 0;

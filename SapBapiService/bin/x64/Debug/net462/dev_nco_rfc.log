@@ -1241,3 +1241,29 @@ COUNTER     7
    at SAP.Middleware.Connector.RfcDestination.SetAttributeValues(RfcSystemAttributes attribs)
    at SAP.Middleware.Connector.RfcDestination.get_SystemAttributes()
    at SAP.Middleware.Connector.RfcRepository.GetRepositoryForDestination(RfcDestination destination)
+
+**** Log file opened by process 18644 at 2023-11-13 09:02:54 (UTC+02:00 FLE Standard Time)
+
+SAP .NET Connector 3.0 with file version 3.0.21.0 running on 64-bit .NET Framework 4.0.30319.42000
+Program: C:\Users\tn_merqe\Documents\GitHub\Optimact-Interface\SapBapiService\bin\x64\Debug\net462\SapBapiService.exe
+Working directory: C:\Users\tn_merqe\Documents\GitHub\Optimact-Interface\SapBapiService\bin\x64\Debug\net462
+Operating system: Windows 10 Enterprise 64-bit 
+Processor: 8x AMD64 (or x64)
+SAP release: 721, Kernel release: 721, Kernel patch level: 1116
+Hostname: TN00P2854, IP address: 10.100.122.85, IP_v6 address: 
+
+Default trace level: None
+
+>> Info entry 2023-11-13 09:02:54.076 [Thread 1]
+Ignoring invalid LZ-compressed data block
+>> Error entry 2023-11-13 09:02:55.076 [Thread 1]
+[ASHOST=10.48.72.10 SYSNR=00 CLIENT=600 USER=TN_OPTIMACT PASSWD=******** NAME=PEO]
+SAP.Middleware.Connector.RfcAbapRuntimeException: Syntax error in program SAPLZOPTI2                              .
+   at SAP.Middleware.Connector.RfcConnection.ThrowRfcErrorMsg()
+   at SAP.Middleware.Connector.RfcConnection.ReadBytes(Byte* buffer, Int32 count)
+   at SAP.Middleware.Connector.RfcConnection.ReadRfcIDBegin(Int32& length)
+   at SAP.Middleware.Connector.RfcConnection.ReadUpTo(RFCGET readState, RfcFunction function, RFCID toRid)
+   at SAP.Middleware.Connector.RfcConnection.RfcReceive(RfcFunction function)
+   at SAP.Middleware.Connector.RfcFunction.RfcDeserialize(RfcConnection conn, IRfcIOStream stream)
+   at SAP.Middleware.Connector.RfcFunction.RfcCallReceive(RfcConnection conn, IRfcIOStream stream, RFCID rid)
+   at SAP.Middleware.Connector.RfcFunction.Invoke(RfcDestination destination)

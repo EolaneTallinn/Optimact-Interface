@@ -43,11 +43,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tn_merqe\\Documents\\GitHub\\ScriptVault\\Provision-Optimact\\New Interface\\SapBapiService\\SapBapiService.csproj",
+      "projectUniqueName": "C:\\Users\\tn_merqe\\Documents\\GitHub\\Optimact-Interface\\SapBapiService\\SapBapiService.csproj",
       "projectName": "SapBapiService",
-      "projectPath": "C:\\Users\\tn_merqe\\Documents\\GitHub\\ScriptVault\\Provision-Optimact\\New Interface\\SapBapiService\\SapBapiService.csproj",
+      "projectPath": "C:\\Users\\tn_merqe\\Documents\\GitHub\\Optimact-Interface\\SapBapiService\\SapBapiService.csproj",
       "packagesPath": "C:\\Users\\tn_merqe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tn_merqe\\Documents\\GitHub\\ScriptVault\\Provision-Optimact\\New Interface\\SapBapiService\\obj\\",
+      "outputPath": "C:\\Users\\tn_merqe\\Documents\\GitHub\\Optimact-Interface\\SapBapiService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -68,8 +68,8 @@
         "net462": {
           "targetAlias": "net462",
           "projectReferences": {
-            "C:\\Users\\tn_merqe\\Documents\\GitHub\\ScriptVault\\Provision-Optimact\\New Interface\\ReadCredentialNET462\\ReadCredentialNET462.csproj": {
-              "projectPath": "C:\\Users\\tn_merqe\\Documents\\GitHub\\ScriptVault\\Provision-Optimact\\New Interface\\ReadCredentialNET462\\ReadCredentialNET462.csproj"
+            "C:\\Users\\tn_merqe\\Documents\\GitHub\\Optimact-Interface\\ReadCredentialNET462\\ReadCredentialNET462.csproj": {
+              "projectPath": "C:\\Users\\tn_merqe\\Documents\\GitHub\\Optimact-Interface\\ReadCredentialNET462\\ReadCredentialNET462.csproj"
             }
           }
         }
