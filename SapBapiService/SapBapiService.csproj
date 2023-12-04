@@ -7,10 +7,10 @@
 
 	<ItemGroup>
 		<Reference Include="sapnco">
-			<HintPath>T:\IT\1_IT teenused\220_GIT\ScriptVault\Modules\SAP_DotNetConnector3_Net20_x64\sapnco.dll</HintPath>
+		  <HintPath>T:\IT\1_IT teenused\220_GIT\Optimact-Interface\SapBapiService\bin\x64\Debug\net462\sapnco.dll</HintPath>
 		</Reference>
 		<Reference Include="sapnco_utils">
-			<HintPath>T:\IT\1_IT teenused\220_GIT\ScriptVault\Modules\SAP_DotNetConnector3_Net20_x64\sapnco_utils.dll</HintPath>
+		  <HintPath>T:\IT\1_IT teenused\220_GIT\Optimact-Interface\SapBapiService\bin\x64\Debug\net462\sapnco_utils.dll</HintPath>
 		</Reference>
 		<Reference Include="System.Security" />
 		<Reference Include="System.Windows.Forms" />
