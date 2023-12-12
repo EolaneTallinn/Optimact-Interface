@@ -7,10 +7,10 @@
 
 	<ItemGroup>
 		<Reference Include="sapnco">
-		  <HintPath>\\tnfs01\data\IT\1_IT teenused\220_GIT\Optimact-Interface\SapBapiService\bin\x64\Debug\net462\sapnco.dll</HintPath>
+		  <HintPath>lib\sapnco.dll</HintPath>
 		</Reference>
 		<Reference Include="sapnco_utils">
-		  <HintPath>\\tnfs01\data\IT\1_IT teenused\220_GIT\Optimact-Interface\SapBapiService\bin\x64\Debug\net462\sapnco_utils.dll</HintPath>
+		  <HintPath>lib\sapnco_utils.dll</HintPath>
 		</Reference>
 		<Reference Include="System.Security" />
 		<Reference Include="System.Windows.Forms" />
