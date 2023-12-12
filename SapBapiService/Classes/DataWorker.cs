@@ -34,7 +34,7 @@ namespace SapBapiService.Classes
             string[] FileName = { "Item", "Sales" , "Purchase", "BOM", "Special Forecast", "Sales D6", "Special_MB52" };
 
             string SavePath = @"\\tninf19\Data-RESULTS\SFTP\" + FileName[filenum-1] + ".csv";
-            string TestSaveDir = @"T:\SAP KU\Tickets\OPTIMACT BAPI developments\ComparingFiles\AUTOGEN\" + day;
+            string TestSaveDir = @"\\tnfs01\data\SAP KU\Tickets\OPTIMACT BAPI developments\ComparingFiles\AUTOGEN\" + day;
             string TestSavePath = TestSaveDir + @"\BAPI-" + filenum + ".csv";
             if (GenerationStatus == 1)
             {
