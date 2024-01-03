@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "sifOm4tCkIUF+T9LzR0o0w3ZRXl+CGt0mq2BcxRUoVBeIbUwMP5MczbzOWfglZQ73Edxz8c6WtwV1VnVQv7i8g==",
+  "dgSpecHash": "lNVJt+O0LgqnD8eJtOpp+19A8N/yVAxK46ZC6T+gYyx3a4S15ATt4LF/qAiaF92cHKzs4KPuKbqOq74RQcs18g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tn_merqe\\Documents\\GitHub\\Optimact-Interface\\ReadCredential\\ReadCredential.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "T:\\IT\\1_IT teenused\\220_GIT\\Optimact-Interface\\ReadCredential\\ReadCredential.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tn_kozdm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\tn_kozdm\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\tn_kozdm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\tn_kozdm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

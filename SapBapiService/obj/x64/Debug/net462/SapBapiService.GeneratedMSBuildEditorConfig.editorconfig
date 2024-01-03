@@ -1,3 +1,5 @@
 is_global = true
 build_property.RootNamespace = SapBapiService
-build_property.ProjectDir = C:\Users\tn_merqe\Documents\GitHub\Optimact-Interface\SapBapiService\
+build_property.ProjectDir = T:\IT\1_IT teenused\220_GIT\Optimact-Interface\SapBapiService\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "C4jmqgjJtKGEE0/k7jY6IrWKlviD6efHwS1aNfEZwXCdUhB2l0jRvpnTxvARYKH9MsPCK3xRYDnKW4oQhZ1Xjg==",
+  "dgSpecHash": "9ETCfXkwu9Y4M18LCHlhXHwV01XJ4B+ds6/QZZeNhp01zzjLqyNC99bAwIlA9FTXaEwL488TCbS5CGp4ZEdULw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tn_merqe\\Documents\\GitHub\\Optimact-Interface\\SapBapiService\\SapBapiService.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "T:\\IT\\1_IT teenused\\220_GIT\\Optimact-Interface\\SapBapiService\\SapBapiService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tn_kozdm\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\tn_kozdm\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.3\\microsoft.netframework.referenceassemblies.net462.1.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
